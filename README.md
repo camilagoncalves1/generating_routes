@@ -18,8 +18,10 @@ A Python tool for mapping bus routes based on itinerary descriptions.
 git clone https://github.com/seu-usuario/mapeador-itinerarios-onibus.git
 cd bus-route-mapper
 pip install -r requirements.txt
+```
+
 ## 👨‍💻 Autoria
 
-Script feito por **Camila Gonçalves** \
-Mestranda em Sensoriamento Remoto - INPE \
+Script created by Camila Gonçalves
+Master's student in Remote Sensing - INPE
 GitHub: @camilagoncalves1
