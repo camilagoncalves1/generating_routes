@@ -11,8 +11,7 @@ A Python tool for mapping bus routes based on itinerary descriptions.
 - **Generation of interactive maps** in HTML
 - **Support for multiple itinerary formats**
 - **Intelligent processing** that removes duplicates and groups similar points
-- **Integration with OpenStreetMap** (free) and Google Maps API
-
+- **Integration with OpenStreetMap** (free)
 ## 📦 Installation
 
 ```bash
